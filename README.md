@@ -24,9 +24,7 @@ The application gives yout the following options:
 
     ![](images/menu.png)
 
-3. Follow prompt if presented
-
-    ![](images/sample.png)
+3. Follow prompt if presented. 
 
 ## Tool & Resources
 ---
